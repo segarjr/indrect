@@ -1,0 +1,4 @@
+Sitemap: https://www.indrect.com/sitemap.xml
+
+User-agent: *
+Disallow:
